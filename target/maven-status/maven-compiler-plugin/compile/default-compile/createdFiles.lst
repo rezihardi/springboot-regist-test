@@ -1,0 +1,7 @@
+com\teknoglobal\Application.class
+com\teknoglobal\exception\ErrorDetails.class
+com\teknoglobal\repository\UserRepository.class
+com\teknoglobal\exception\GlobalExceptionHandler.class
+com\teknoglobal\controller\UserController.class
+com\teknoglobal\model\User.class
+com\teknoglobal\exception\ResourceNotFoundException.class
