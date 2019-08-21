@@ -23,7 +23,7 @@ import com.teknoglobal.repository.UserRepository;
 
 
 @RestController
-@RequestMapping("/api/v2")
+@RequestMapping("/api/v3")
 
 public class UserController {
 	

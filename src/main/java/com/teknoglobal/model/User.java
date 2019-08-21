@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
-@Table(name = "user")
+@Table(name = "regist")
 
 public class User {
 	
@@ -17,7 +17,7 @@ public class User {
 	private String email;
 	private String password;
 	
-	public User() {
+	public User() {	
 		
 	}
 	
